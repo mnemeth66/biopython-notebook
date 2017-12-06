@@ -349,6 +349,7 @@ extensions.append('sphinx.ext.mathjax')
 extensions.append('sphinx.ext.viewcode')
 extensions.append('sphinx.ext.graphviz')
 
+extensions.append('nbsphinx')
 
 autosummary_generate = True
 html_theme = 'default'
